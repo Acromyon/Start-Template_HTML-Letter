@@ -1,0 +1,19 @@
+{
+  "name": "email-starter-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "gulp": "latest",
+    "gulp-inline-css": "latest",
+    "gulp-inline-source": "latest",
+    "gulp-sass": "latest",
+    "inky": "latest"
+  }
+}
